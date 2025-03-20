@@ -6,6 +6,7 @@ This project implements a Resource Scheduler to optimize the allocation of emplo
 ## Team Members
 - OKELLO BENJAMIN (@okellobenjamin)
 - MUHWEZI ASAPH (@muhweziasaph)
+- WAWIRE BIRALI(@Birai25)
 
 
 ## Project Structure
